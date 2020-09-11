@@ -3,7 +3,7 @@
 
 ## Guia:
 
-### O propósito desse eambiente é um bom desenvolvimento, tendo como foco maior
+### O propósito desse ambiente é garantir um bom desenvolvimento entre mais desenvolvedores, tendo como foco maior
 ### tratar tests e formatação de código, rodando tests e verificação de lint antes de cada
 ### commit, assim não permitindo que códigos defeituosos subam para o repositório.
 
