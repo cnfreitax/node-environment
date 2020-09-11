@@ -1,4 +1,4 @@
-![Cap Spock](https://i0.wp.com/www.jornalopcao.com.br/wp-content/uploads/2015/02/leonard.jpg?resize=300%2C169&ssl=1)
+![Cap Spock](https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2016/06/JUsGQP9X1njORpLryfKg_zTbmk6F7wDoxA4258hZtV.jpg.jpeg)
 # Ambiente de desenvolvimento Node/Typescript pré configurado
 
 ## Guia:
