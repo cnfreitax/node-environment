@@ -1,4 +1,4 @@
-![Cap Spock](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jornalopcao.com.br%2Fultimas-noticias%2Fmorre-leonard-nimoy-o-spock-de-jornada-nas-estrelas-29518%2F&psig=AOvVaw16DvehJ6OlwLft2UO81LY7&ust=1599916448787000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCnlLCX4esCFQAAAAAdAAAAABAq)
+![Cap Spock](https://i0.wp.com/www.jornalopcao.com.br/wp-content/uploads/2015/02/leonard.jpg?resize=300%2C169&ssl=1)
 # Ambiente de desenvolvimento Node/Typescript pré configurado
 
 ## Guia:
