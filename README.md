@@ -2,14 +2,12 @@
 # Ambiente de desenvolvimento Node/Typescript pré configurado
 
 ## Guia:
-
-### O propósito desse ambiente é garantir um bom desenvolvimento entre mais desenvolvedores, tendo como foco maior
-### tratar tests e formatação de código, rodando tests e verificação de lint antes de cada
-### commit, assim não permitindo que códigos defeituosos subam para o repositório.
+O propósito desse ambiente é garantir um bom desenvolvimento entre mais desenvolvedores, tendo como foco maior
+tratar tests e formatação de código, rodando tests e verificação de lint antes de cada commit, assim não permitindo que códigos defeituosos subam para o repositório.
 
 ## npm-check:
-### Configurado npm-check no package.json, instale-o de forma global para verificação
-### de atualização de dependências. **npm i -g npm-check**
+Configurado npm-check no package.json, instale-o de forma global para verificação de atualização de dependências.
+**npm i -g npm-check**
 
 ### Verifique a Wiki de utilização de Git
 ### Verifique as dependencias no package.json
